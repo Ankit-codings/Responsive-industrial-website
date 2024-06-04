@@ -2,8 +2,7 @@
  -Responsive-Industrial-Business-Website-Template
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
-Live Demo - https://github.com/Ankit-codings Responsive-Industrial-Business-Website-Template/
-
+Live Demo -  https://ankit-codings.github.io/Responsive-industrial-website/
 Join Us
 Instagram -  https://www.instagram.com/_ankit_rider_07?igsh=Ymd1Nm9wcDFia20=
 
